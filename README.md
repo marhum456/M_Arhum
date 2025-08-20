@@ -1,2 +1,89 @@
-# M_Arhum
-Hello World, this is my profile
+# Muhammad Arhum's Portfolio
+
+![Profile Image](https://www.example.com/profile-image.jpg)  <!-- Add your own profile image URL -->
+
+## 👋 Hi there! I'm Muhammad Arhum
+
+I am an MS Computer Science student with a deep passion for **Data Science**, **Machine Learning**, **AI** and **Data Analytics**. I'm dedicated to using data-driven approaches to solve real-world problems and uncover meaningful insights.
+
+🎯 **Skills & Expertise**
+- **Programming Languages**: Python
+- **Tools**: Pandas, NumPy, Scikit-learn, Jupyter, GitHub, Google Colab
+- **Certifications**: 
+  - AI Essentials – Google
+  - AI For Everyone – Coursera
+  - Introduction to Data Analytics – IBM
+  - Introduction to Software Engineering – IBM
+  - Data Analytics Essentials – Coursera
+  - Software Engineering Essentials – Coursera
+
+---
+
+## 📚 Education and Experience
+
+### 🎓 **Master’s in Computer Science**
+- **University of Gujrat**, **2023-2025(expected)** 
+
+### 🎓 **Bachelor's in Software Engineering**
+- **University of Gujrat**, **2019-2023** 
+
+
+### 📝 **Freelance Software Documentation Specialist (2021-Present)**
+- Created technical documentation and reports using IEEE templates, ensuring high standards for structure and formatting in academic and professional projects.
+- Designed and implemented various UML diagrams (Class, Sequence, Use Case, etc.) to visualize and model system architectures, workflows, and interactions between components.
+- Wrote comprehensive test case tables for software testing to ensure quality assurance and verify that all functionalities of the system were working as intended.
+- Documented detailed Use Case Tables to clearly define system interactions ensuring clarity in functional requirements for developers and stakeholders.
+- Simplified complex technical concepts and processes, transforming them into user-friendly documentation to improve usability and understanding.
+
+---
+
+## 💼 Projects
+
+Here are some of the projects that I have worked on:
+
+### 1. **Mobile Application (Final Year Project)**
+![Mobile App Screenshot](https://www.example.com/app-image.jpg)  <!-- Add project image link -->
+- Developed a mobile app to address [specific problem or industry]. 
+- Integrated machine learning models for [task].
+
+---
+
+## 🎓 **Thesis: Enhancing Vulnerability Detection in Blockchain Smart Contracts**
+
+I am currently working on my **Master's Thesis** focused on **Blockchain Smart Contract Security**, specifically on **enhancing vulnerability detection** in smart contracts. The goal of my research is to identify and mitigate common security vulnerabilities in smart contracts, making blockchain-based applications safer.
+
+### Research Methodology:
+
+In this research, I used the following tools and datasets to perform vulnerability detection and consensus analysis:
+
+- **Tools Used**:
+  - **Slither**: A static analysis tool for Solidity code that helps in detecting vulnerabilities in smart contracts.
+  - **SmartCheck**: A tool that scans smart contracts for potential security risks and vulnerabilities.
+  - **ChatGPT**: Used for consensus analysis by analyzing the reports from **Slither** and **SmartCheck**, helping to generate a more accurate understanding of the vulnerabilities identified in the dataset.
+
+- **Datasets**:
+  - **SmartBug Dataset**: A dataset that contains real-world smart contract vulnerabilities. I used it to calculate the **F1 score** of the vulnerability detection results produced by the tools.
+  - **Etherscan-Generated Dataset**: A dataset sourced from **Etherscan**, containing data from deployed smart contracts, which I used to analyze and cross-reference the vulnerability findings.
+
+This thesis aims to contribute to the improvement of blockchain system security by enhancing the detection of vulnerabilities and ensuring the safety of decentralized applications.
+
+  
+
+---
+
+## 📈 Certifications
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)  <!-- Replace with actual link -->
+- [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning)  <!-- Replace with actual link -->
+- [Coursera Data Science Specialization](https://www.coursera.org/specializations/data-science)  <!-- Replace with actual link -->
+
+---
+
+## 📬 Get in Touch
+Feel free to connect with me or drop me a message if you’re looking for a data-driven problem solver!  
+- **Email**: [muhammadarhum277@gmail.com](mailto:your-email@example.com)
+- **LinkedIn**: [https://www.linkedin.com/in/muhammad-arhum-3110b131b/](https://www.linkedin.com/in/muhammad-arhum-3110b131b/)  <!-- Replace with actual link -->
+- **GitHub**: [https://github.com/marhum456](https://github.com/your-github)  <!-- Replace with actual link -->
+
+---
+
+Thank you for visiting my profile! 😊
